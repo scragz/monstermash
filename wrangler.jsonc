@@ -1,5 +1,6 @@
 {
-	    "name": "worker-name",
-	    "compatibility_date": "2026-02-07",
-	    "main": "src/main.jsx"
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "monster-mash",
+  "compatibility_date": "2026-02-07",
+  "pages_build_output_dir": "dist"
 }
